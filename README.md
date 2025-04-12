@@ -20,18 +20,19 @@ Pratik bir uygulama olarak Çarpım Tablosu testlerini (quizlerini) düşünün.
 
 💡 **Çarpım Tablosu Test Oyunları (x3 - x14):** Çalışmayı ilgi çekici ve etkili hale getirin. Göz atın!
 
-* 🎰 [3'ler Çarpım Tablosu](https://lnkd.in/d5WFitgn)
-* 🎰 [4'ler Çarpım Tablosu](https://lnkd.in/dGmJpWfx)
-* 🎰 [5'ler Çarpım Tablosu](https://lnkd.in/dbiGqy2Z)
-* 🎰 [6'lar Çarpım Tablosu](https://lnkd.in/dMY4kBAz)
-* 🎰 [7'ler Çarpım Tablosu](https://lnkd.in/dg_SNCB4)
-* 🎰 [8'ler Çarpım Tablosu](https://lnkd.in/dDSuAra2)
-* 🎰 [9'lar Çarpım Tablosu](https://lnkd.in/djfHsGsT)
-* 🎰 [10'lar Çarpım Tablosu](https://lnkd.in/dDYWzHRg)
-* 🎰 [11'ler Çarpım Tablosu](https://lnkd.in/dVfyg8ZF)
-* 🎰 [12'ler Çarpım Tablosu](https://lnkd.in/dWaCUv8i)
-* 🎰 [13'ler Çarpım Tablosu](https://lnkd.in/d8vgutPb)
-* 🎰 [14'ler Çarpım Tablosu](https://lnkd.in/dFqYrfC6)
+
+* 👾 👾 👾 [3'ler Çarpım Tablosu](https://zeersaleh.github.io/Multiplication-Table-of-3/)
+* 👾 👾 👾 [4'ler Çarpım Tablosu](https://zeersaleh.github.io/Multiplication-Table-of-4/)
+* 👾 👾 👾 [5'ler Çarpım Tablosu](https://zeersaleh.github.io/Multiplication-Table-of-5/)
+* 👾 👾 👾 [6'lar Çarpım Tablosu](https://zeersaleh.github.io/Multiplication-Table-of-6/)
+* 👾 👾 👾 [7'ler Çarpım Tablosu](https://zeersaleh.github.io/Multiplication-Table-of-7/)
+* 👾 👾 👾 [8'ler Çarpım Tablosu](https://zeersaleh.github.io/Multiplication-Table-of-8/)
+* 👾 👾 👾 [9'lar Çarpım Tablosu](https://zeersaleh.github.io/Multiplication-Table-of-9/)
+* 👾 👾 👾 [10'lar Çarpım Tablosu](https://zeersaleh.github.io/Multiplication-Table-of-10/)
+* 👾 👾 👾 [11'ler Çarpım Tablosu](https://zeersaleh.github.io/Multiplication-Table-of-11/)
+* 👾 👾 👾 [12'ler Çarpım Tablosu](https://zeersaleh.github.io/Multiplication-Table-of-12/)
+* 👾 👾 👾 [13'ler Çarpım Tablosu](https://zeersaleh.github.io/Multiplication-Table-of-13/)
+* 👾 👾 👾 [14'ler Çarpım Tablosu](https://zeersaleh.github.io/Multiplication-Table-of-14/)
 
 ---
 
